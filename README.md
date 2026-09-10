@@ -1,6 +1,6 @@
 # Andrey Gubanov — Resume
 
-**Head of Data & Analytics | Analytics Strategy, Product Analytics, BI & ML | SQL & Python**
+**Head of Data & Analytics | Analytics Strategy, Product Analytics, BI, ML & Applied AI | SQL & Python**
 
 This repository contains my current professional resume.
 
@@ -11,6 +11,7 @@ This repository contains my current professional resume.
 - Product analytics, experimentation, forecasting, predictive analytics and BI
 - Hands-on background with SQL and Python
 - Experience across technology, cybersecurity, consumer goods, retail and market research
+- Applied AI, analytics automation and self-service analytical tools
 
 ## Selected impact
 
